@@ -5,43 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="554988df-7971-49cd-9707-2860322af4cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_search/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_search/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_search/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_search/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_search/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_search/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_search/Linear_search.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_search/src/Find_Max_In_2D_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_search/src/Find_Min_In_2D_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_search/src/Find_element_Elelemt_2D_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_search/src/Find_no_digits_is_Even_or_not.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_search/src/Max_Elelemt_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_search/src/Min_In_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_search/src/Search_in_Range.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_search/src/find_String_in_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear_search/src/find_element_in_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LInear_search/LInear_search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LInear_search/src/Find_Max_In_2D_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LInear_search/src/Find_Min_In_2D_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LInear_search/src/Find_element_Elelemt_2D_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LInear_search/src/Find_no_digits_is_Even_or_not.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LInear_search/src/Max_Elelemt_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LInear_search/src/Min_In_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LInear_search/src/Search_in_Range.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LInear_search/src/find_String_in_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LInear_search/src/find_element_in_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hellow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Linear_search" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NgKLvBaiu2KoQGYhBFvVIRKExq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,10 +51,40 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "settings.sync"
+    "jdk.selected.JAVA_MODULE": "openjdk-20",
+    "last_opened_file_path": "/home/vibhu/Desktop/Java/Array/LInear_search/src",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LInear_search/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Find_Max_In_2D_Array (1)">
+    <configuration name="Find_Max_In_2D_Array (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Find_Max_In_2D_Array" />
+      <module name="LInear_search" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Find_Max_In_2D_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Find_Max_In_2D_Array" />
+      <module name="Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Find_Max_In_2D_Array (1)" />
+        <item itemvalue="Application.Find_Max_In_2D_Array" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
