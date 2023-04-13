@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="554988df-7971-49cd-9707-2860322af4cf" name="Changes" comment="Dsa Commit 1">
-      <change afterPath="$PROJECT_DIR$/Binary_search/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary_search/src/newClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bubble_Sort/src/Bubble_Sort_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Transpose_of_matrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array List in Java (1).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array List in Java (1).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array in C or Java.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array in C or Java.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bubble_Sort/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,21 +54,7 @@
       <recent name="$PROJECT_DIR$/LInear_search/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Find_Max_In_2D_Array (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Find_Max_In_2D_Array" />
-      <module name="LInear_search" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Find_Max_In_2D_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Find_Max_In_2D_Array" />
-      <module name="Array" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.find_element_in_Array">
     <configuration name="Find_no_digits_is_Even_or_not" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Find_no_digits_is_Even_or_not" />
       <module name="LInear_search" />
@@ -86,6 +69,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Transpose_of_matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Transpose_of_matrix" />
+      <module name="Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="find_String_in_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="find_String_in_Array" />
       <module name="LInear_search" />
@@ -93,13 +83,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="find_element_in_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="find_element_in_Array" />
+      <module name="LInear_search" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.find_element_in_Array" />
+        <item itemvalue="Application.find_String_in_Array" />
+        <item itemvalue="Application.Transpose_of_matrix" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Find_no_digits_is_Even_or_not" />
-        <item itemvalue="Application.find_String_in_Array" />
-        <item itemvalue="Application.Find_Max_In_2D_Array (1)" />
-        <item itemvalue="Application.Find_Max_In_2D_Array" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680333014839</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Dsa Commit 1">
+      <created>1680558336015</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680558336015</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
